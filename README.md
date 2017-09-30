@@ -1,4 +1,4 @@
-# Fully convulutional watermark removal attack
+# Fully convolutional watermark removal attack
 
 Deep learning architecture to remove transparent overlays from images.
 
